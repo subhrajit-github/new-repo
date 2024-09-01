@@ -1,2 +1,5 @@
 # new-repo
-this is a new repository
+this is a new repository.
+<br>
+author-subhrajit
+
